@@ -1,0 +1,24 @@
+<Alloy>
+    <Window class="container" left="0.00%" top="0">
+        <View class="container">
+            <View id="View_4"> 
+                <ImageView id="ImageView_1"/>
+                <ImageView id="ImageView_account"/>
+                <ImageView id="ImageView_search"/>
+                <ImageView id="ImageView_messages"/>
+                <TableView id="TableView_1">
+                    <TableViewSection headerTitle="Outstanding Actions (1)" id="sectionFruit">
+                        <TableViewRow backgroundColor="#A9A9A9" title="Kitchen Fitting"/>
+                    </TableViewSection>
+                    <TableViewSection headerTitle="Messages" id="sectionVeg">
+                        <TableViewRow title="Kitchen Cupboard Design"/>
+                        <TableViewRow title="Order Confirmation"/>
+                    </TableViewSection>
+                </TableView>
+                <TextArea id="TextArea_1"/>
+                <ImageView id="ImageView_accept"/>
+            </View>
+            <ImageView id="ImageView_brico"/>
+        </View>
+    </Window>
+</Alloy>

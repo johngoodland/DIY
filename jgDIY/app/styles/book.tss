@@ -1,0 +1,73 @@
+".container": {
+},
+"#ImageView_2": {
+	"left": "33.87%",
+	"height": "14.46%",
+	"image": "/images/oie_transparent (14).png",
+	"width": "33.47%",
+	"top": "22.45%"
+}, 
+"#TextField_4": {
+	"left": "13.20%",
+	"top": "49.64%",
+	"width": "75%"
+},   
+"#TextField_1": {
+	"left": "13.20%",
+	"top": "37.99%",
+	"height": "4.58%",
+	"width": "75%",
+	"paddingLeft": "10%"
+}, 
+"#ImageView_1": {
+	"left": "0.00%",
+	"top": "0.00%",
+	"width": "100.00%",
+	"image": "/images/uform inframe (12).jpg",
+	"opacity": "0.4",
+	"height": "100.00%",
+},
+"#ImageView_brico": {
+	"image": "/images/oie_transparent (1).png"
+},
+"#ImageView_click": {
+	"left": "22.93%",
+	"top": "71.00%",
+	"height": "6.99%",
+	"width": "58.00%",
+	"image": "/images/oie_transparent (19).png"
+},
+"#TextField_5": {
+	"left": "13.20%",
+	"top": "55.58%",
+	"width": "75%"
+},
+"#TextField_3": {
+	"left": "13.20%",
+	"top": "43.61%",
+	"height": "4.58%",
+	"width": "75%"
+},
+"#Window_1": {
+	"title": "Window"
+},
+"#View_1": {
+},
+"#ImageView_account": {
+	"left": "18.17%",
+	"top": "83.11%",
+	"height": "16%",
+	"image": "/images/oie_transparent (15).png",
+	"width": "28%"
+},
+"#ImageView_search": {
+	"left": "55.45%",
+	"top": "83.03%",
+	"height": "16%",
+	"image": "/images/oie_transparent (16).png",
+	"width": "28%"
+},
+"#dateTextField": {
+},
+"#timeTextField": {
+}

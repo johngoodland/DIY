@@ -1,0 +1,90 @@
+".container": {
+},
+"#ImageView_messages": {
+	"left": "34.99%",
+	"height": "4.97%",
+	"image": "/images/oie_transparent (17).png",
+	"width": "7.40%",
+	"top": "84.93%"
+}, 
+"#TextField_4": {
+	"left": "1.62%",
+	"top": "49.75%"
+},
+"#TextField_1": {
+	"left": "1.35%",
+	"top": "37.75%"
+},
+"#ImageView_1": {
+	"left": "0.00%",
+	"top": "0.00%",
+	"height": "101.04%",
+	"width": "100.00%",
+	"image": "/images/uform inframe (12).jpg",
+	"opacity": "0.2"
+},
+"#ImageView_3": {
+	"left": "1.75%",
+	"top": "62.75%",
+	"height": "7.04%",
+	"width": "52.36%"
+},
+"#TextField_5": {
+	"left": "1.75%",
+	"top": "55.63%"
+},
+"#TextField_3": {
+	"left": "1.62%",
+	"top": "43.63%"
+},
+"#Window_1": {
+	"title": "Window"
+},
+"#View_1": {
+},
+"#ImageView_account": {
+	"left": "18.17%",
+	"top": "83.11%",
+	"height": "16%",
+	"image": "/images/oie_transparent (15).png",
+	"width": "28%"
+},
+"#ImageView_search": {
+	"left": "55.45%",
+	"top": "83.03%",
+	"height": "16%",
+	"image": "/images/oie_transparent (16).png",
+	"width": "28%"
+},
+"#Templates_1": {
+},
+"#View_4": {
+},
+"#list": {
+},
+"#plaintemplate": {
+	"height": "58.15%",
+	"left": "0.00%",
+	"top": "22.25%",
+	"width": "100.00%"
+},
+"#TableView_1": {
+	"height": "27.63%",
+	"left": "0.00%",
+	"top": "23.13%",
+	"width": "100.00%",
+	"opacity": "0.8",
+},
+"#TableViewSection_1": {
+},
+"#TableViewSection_2": {
+},
+"#TextArea_1": {
+	"value": "Sorry, your new kitchen has been delayed until December 8, 2017.",
+	"left": "2.00%",
+	"top": "52.53%",
+	"height": "10.56%",
+	"opacity": "0.8",
+	"width": "96.67%",
+	"font": {fontSize:'18',fontFamily:'AppleGothic',fontStyle:'',fontWeight:'bold'},
+}

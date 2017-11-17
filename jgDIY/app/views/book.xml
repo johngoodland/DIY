@@ -1,0 +1,19 @@
+<Alloy>
+    <Window class="container" left="0.00%" top="0">
+        <View class="container">
+            <ImageView id="ImageView_1"/>
+            <TextField id="TextField_1"/>
+            <TextField id="TextField_3"/>
+            <TextField id="TextField_4"/>
+            <TextField id="TextField_5"/>
+            <ImageView id="ImageView_2"/>
+            <ImageView id="ImageView_click" onClick="showdate"/>
+            <ImageView id="ImageView_account" onClick="myaccount"/>
+            <ImageView id="ImageView_search"/>
+            <ImageView id="ImageView_brico"/>
+            <TextField id="txt" top="20" value="July 4, 2014"/>
+            <TextField id="dateTextField"/>
+            <TextField id="timeTextField"/>
+        </View>
+    </Window>
+</Alloy>

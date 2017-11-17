@@ -1,0 +1,70 @@
+"Window": {
+	"backgroundColor": "#fff"
+},
+"Label": {
+	"width": Ti.UI.SIZE,
+	"height": Ti.UI.SIZE,
+	"color": "#000",
+	"font": {fontSize:20,fontFamily:'HelveticaNeue'},
+	"textAlign": "center"
+},
+"#ImageView_1": {
+	"left": "0.00%",
+	"top": "0.00%",
+	"height": "100.16%",
+	"image": "/images/modern4.jpg",
+	"width": "100.40%",
+	"opacity": "0.7"
+},
+"#View_1": {
+	"left": "0.00%",
+	"top": "0.00%",
+	"backgroundColor": "#ffffff",
+	"height": "99.85%",
+	"tintColor": "#c3f0f0",
+	"width": "100.27%"
+},
+"#View_2": {
+	"height": "15.59%",
+	"left": "0.00%",
+	"top": "84.86%",
+	"width": "100.00%"
+},
+"#TextField_username": {
+	"width": "54.79%",
+	"height": "5.55%",
+	"borderRadius": "10",
+	"left": "25.40%",
+	"top": "69.03%",
+	"color": "#ffffff",
+	"font": {fontSize:'20',fontFamily:'',fontStyle:'normal',fontWeight:'bold'},
+	"hintText": "         USERNAME",
+	"hintTextColor": "#ffffff",  
+},
+"#TextField_2": {
+	"width": "71.94%",
+	"height": "4.58%",
+	"borderRadius": "10",
+	"borderColor": "#E5E5E5",
+	"borderWidth": "1",
+	"left": "16.89%",
+	"top": "89.78%"
+},
+"#ImageView_3": {
+	"left": "2.66%",
+	"top": "53.50%",
+	"height": "43.77%",
+	"image": "/images/imageedit_10_4275040253.gif",
+	"width": "95.02%"
+},
+"#TextField_pass": {
+	"height": "3.3%",
+	"left": "25.40%",
+	"top": "75.78%",
+	"width": "55.59%",
+	"color": "#ffffff",
+	"font": {fontSize:'20',fontFamily:'',fontStyle:'normal',fontWeight:'bold'},
+	"hintText": "         PASSWORD",
+	"hintTextColor": "#ffffff",
+	"passwordMask": "true",
+}

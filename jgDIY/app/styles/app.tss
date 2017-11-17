@@ -1,0 +1,102 @@
+/*
+This is your global styles file. Selectors and rules you define
+here will be applied throughout your app. However, these rules
+have the lowest priority of any style settings.
+For more information, see the "Style Priorities" section of
+http://docs.appcelerator.com/platform/latest/#!/guide/Alloy_Styles_and_Themes
+For example, the following would apply to all labels, windows,
+and text fields (depending on platform) in your app unless you
+overrode the settings with other TSS, XML, or JS settings:
+'Label[platform=android,windows]': {
+	color: '#000' // all platforms except Android and Windows default to black
+}
+'Window': {
+	backgroundColor: '#fff' // white background instead of default transparent or black
+}
+'TextField[platform=android]': {
+	height: Ti.UI.SIZE
+}
+*/
+"#View_1": {
+	"left": "1%",
+	"top": "3%"
+},
+"#TextField_book": {
+	"width": "86.68%",
+	"height": "5.72%",
+	"borderRadius": "0",
+	"borderWidth": "0",
+	"left": "7.00%",
+	"top": "0.93%",
+	"font": {fontSize:'20',fontFamily:'AppleGothic',fontStyle:'',fontWeight:'bold'},
+	"value": "BOOK A DESIGN CONSULTANT"
+},
+"#TextField_2": {
+	"width": "38.90%",
+	"height": "5.41%",
+	"borderRadius": "0",
+	"borderWidth": "0",
+	"left": "2.02%",
+	"top": "6.65%",
+	"font": {fontSize:'14',fontFamily:'AppleGothic',fontWeight:'bold'},
+	"value": "Get your free kitchen design and installation options."
+},
+"#TextField_1": {
+	"width": "100dp",
+	"height": "30dp",
+	"borderRadius": "10",
+	"borderColor": "#67c8ff",
+	"borderWidth": "2",
+	"left": "27%",
+	"top": "74%",
+	"hintText": "First Name",
+	"paddingLeft": "10%"
+},
+"#TextField_3": {
+	"width": "52.62%",
+	"height": "4.64%",
+	"borderRadius": "10",
+	"borderColor": "#67c8ff",
+	"borderWidth": "2",
+	"left": "1.62%",
+	"top": "37.94%",
+	"hintText": "Last Name",
+	"paddingLeft": "10%"
+},
+"#TextField_4": {
+	"width": "52.49%",
+	"height": "4.64%",
+	"borderRadius": "10",
+	"borderColor": "#67c8ff",
+	"borderWidth": "2",
+	"left": "1.62%",
+	"top": "43.59%",
+	"hintText": "Phone Number",
+	"paddingLeft": "10%"
+},
+"#TextField_5": {
+	"width": "52.36%",
+	"height": "4.71%",
+	"borderRadius": "10",
+	"borderColor": "#67c8ff",
+	"borderWidth": "2",
+	"left": "1.75%",
+	"top": "49.38%",
+	"focusable": "true",
+	"hintText": "Email",
+	"paddingLeft": "10%"
+},
+"#ImageView_2": {
+	"left": "24%",
+	"top": "60%",
+	"height": "17.70%",
+	"image": "/images/images.png",
+	"width": "41.05%"
+},
+"#ImageView_brico": {
+	"left": "16.62%",
+	"top": "3.5%",
+	"height": "19.79%",
+	"image": "/images/oie_transparent (1).png",
+	"width": "68.75%"
+}
